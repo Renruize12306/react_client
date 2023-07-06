@@ -5,7 +5,6 @@ function App() {
   return (
     <div className="App">
       <header className="App-header">
-        {/* <div>neweweweww3001</div> */}
         <div>
         <BrowserRouter>
           <Switch>
